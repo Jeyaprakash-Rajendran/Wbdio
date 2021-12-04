@@ -1,7 +1,3 @@
 JP the mass 
-<<<<<<< HEAD
 jp the kola mass 
 jp u r rocking 
-=======
-jp u r rocking 
->>>>>>> 6751db884674d94d8f1d752c6aad2ea414c088fa
